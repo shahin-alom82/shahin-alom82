@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Shahin Alom</h1>
+<h1 align="center">Hi 👋, I'm Shahin Alom</h1>
                   <h3 align="center">Frontend Developer | React.js | Junior MERN Developer</h3>
                   <img height='250' width='1100' src="https://i.ibb.co/1vdN72X/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="img">
 
@@ -18,8 +18,10 @@
 
                         <h3 align="left">Connect with me:</h3>
                         <p align="left">
-                              <a href="https://linkedin.com/in/yeasin-miah-198b5829a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-                              <a href="https://github.com/shahin-alom82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+                              <a href="https://linkedin.com/in/yeasin-miah-198b5829a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+         generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+                              <a href="https://github.com/shahin-alom82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
+    generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
                         </p>
 
                         <h3 align="left">Languages and Tools:</h3>
@@ -100,7 +102,7 @@
 
                         <h3 align="left">Certifications:</h3>
                         <p align="left">
-                              - **Frontend Development**: Completed certification in frontend development, focusing on modern web technologies and best practices
+                              - **Frontend Development**: Completed certification in frontend development, focusing on modern web technologies and best practices.
                               - **JavaScript**: Certified in advanced JavaScript programming, including ES6+ features and asynchronous programming.
                               - **React.js**: Earned certification in React.js, covering hooks, state management, and performance optimization.
                               - **Download Certificate**: [Frontend Development Certificate](https://i.ibb.co/R05phKS/certificate.png)
@@ -116,7 +118,10 @@
 
                         <h3 align="left">Professional Summary:</h3>
                         <p align="left">
-                              I am a passionate and dedicated frontend developer with a strong foundation in React.js and the MERN stack. With hands-on experience in building responsive and interactive web applications, I strive to deliver high-quality code and user-friendly designs. My journey in web development is driven by a constant desire to learn and explore new technologies, allowing me to adapt to the ever-evolving landscape of the tech industry. I thrive in collaborative environments and enjoy contributing to open source projects, enhancing both my skills and the community. My goal is to create impactful web solutions that provide seamless user experiences and drive innovation.
+                              I am a passionate and dedicated frontend developer with a strong foundation in React.js and the MERN stack. With hands-on experience in building responsive and interactive web 
+                              applications, I strive to deliver high-quality code and user-friendly designs. My journey in web development is driven by a constant desire to learn and explore new technologies, 
+                               allowing me to adapt to the ever-evolving landscape of the tech industry. I thrive in collaborative environments and enjoy contributing to open source projects, enhancing both my 
+                               skills and the community. My goal is to create impactful web solutions that provide seamless user experiences and drive innovation.
                         </p>
 
                         <h3 align="left">Resume:</h3>
@@ -127,4 +132,3 @@
                         <p align="center">
                               <a href="https://my-portfolio-shahin.surge.sh/" target="_blank"><strong>Explore My Work »</strong></a>
                         </p>
-
