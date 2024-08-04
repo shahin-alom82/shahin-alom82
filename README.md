@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React.js | Junior MERN Developer</h3>
 <img src="https://i.ibb.co/1vdN72X/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="img">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinmiah1272001&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinmiah1272001" /> </p>
+<p align="left w-full"> <img src="https://komarev.com/ghpvc/?username=yeasinmiah1272001&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinmiah1272001" /> </p>
 
 - 🔭 I’m currently working on [Book-store](https://fretful-temper.surge.sh/)
 
