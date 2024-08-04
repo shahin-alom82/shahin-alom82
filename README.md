@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://yeasin-portfolio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://my-portfolio-shahin.surge.sh/)
 
 - 📫 How to reach me **shahinalom3511371@gmail.com**
 
@@ -59,7 +59,7 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinmiah1272001&show_icons=true&locale=en&layout=compact" alt="yeasinmiah1272001" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinmiah1272001&show_icons=true&locale=en&layout=compact" alt="shahin-alom82" /></p>
 
 <h3 align="left">Experience:</h3>
 <p align="left">
