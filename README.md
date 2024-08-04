@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://yeasin-portfolio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://my-portfolio-shahin.surge.sh/)
 
-- 📫 How to reach me **yeasinmiah1272001@gmail.com**
+- 📫 How to reach me **shahinalom3511371@gmail.com**
 
 - 💬 Ask me about **React, JavaScript, and frontend development**
 
