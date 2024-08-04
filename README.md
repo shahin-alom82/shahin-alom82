@@ -100,7 +100,7 @@
 
                         <h3 align="left">Certifications:</h3>
                         <p align="left">
-                              - **Frontend Development**: Completed certification in frontend development, focusing on modern web technologies and best practices.
+                              - **Frontend Development**: Completed certification in frontend development, focusing on modern web technologies and best practices
                               - **JavaScript**: Certified in advanced JavaScript programming, including ES6+ features and asynchronous programming.
                               - **React.js**: Earned certification in React.js, covering hooks, state management, and performance optimization.
                               - **Download Certificate**: [Frontend Development Certificate](https://i.ibb.co/R05phKS/certificate.png)
