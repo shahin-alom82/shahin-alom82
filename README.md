@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahin Alom</h1>
 <h3 align="center">Frontend Developer | React.js | Junior MERN Developer</h3>
-<img height='200' width='400' src="https://i.ibb.co/1vdN72X/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="img">
+<img height='200' width='1000' src="https://i.ibb.co/1vdN72X/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="img">
 
 <p align="left w-full"> <img src="https://komarev.com/ghpvc/?username=yeasinmiah1272001&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinmiah1272001" /> </p>
 
