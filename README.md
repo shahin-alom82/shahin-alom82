@@ -64,5 +64,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinmiah1272001&show_icons=true&locale=en&layout=compact" alt="shahin-alom82" /></p>
 
+## 💻 GitHub Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=noorjsdivs&theme=highcontrast&hide_border=false&include_all_commits=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
+<img align="center" alt="line separator" width="100%" src="/twahanurGithubLine.gif">
 
