@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Shofy](https://shofyecommerce.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Next.Auth, **
+- 🌱 I’m currently learning **Next.js, TypeScript, Next.Auth, Redux Tolkit, **
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://portfolio-shahin.vercel.app/)
 
