@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinmiah1272001&label=Profile%20views&color=0e75b6&style=flat" alt="shahin-alom82" /> </p>
 
-- 🔭 I’m currently working on [Book-store](https://fretful-temper.surge.sh/)
+- 🔭 I’m currently working on [E-Commerce Shofy](https://shofyecommerce.vercel.app/)
 
-- 🌱 I’m currently learning **React.js, Next.js, TypeScript**
+- 🌱 I’m currently learning **Next.js, TypeScript, Next.Auth, **
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://my-portfolio-shahin.surge.sh/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://portfolio-shahin.vercel.app/)
 
 - 📫 How to reach me **shahinalom3511371@gmail.com**
 
